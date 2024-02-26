@@ -1,0 +1,8 @@
+nltk
+tensorflow
+keras
+numpy
+SpeechRecognition
+pyttsx3
+PyAudio
+
